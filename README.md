@@ -1,1 +1,3 @@
 # vk_lab_selection
+
+Just clone this repo, open .ipynb file with code and survey, see the results and run on your computer. I recommend you to use Google Colab, because GPU computations are much faster there (you can win up to 30-40 minutes per 1 iteration over your idea). To open this project in Colab, upload `knowledge_distillation.ipynb`, `resnet_utils.py` and `datasets` folder into runtime Colab session, choose GPU resources and enjoy! 
